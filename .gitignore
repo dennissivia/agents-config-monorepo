@@ -1,0 +1,5 @@
+docs/internal/
+tmp/
+dist/*
+!dist/.gitkeep
+.vscode/
